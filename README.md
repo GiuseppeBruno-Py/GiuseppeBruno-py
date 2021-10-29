@@ -9,7 +9,7 @@
   <img align="center" alt="Giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Giu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="https://media0.giphy.com/media/jZtEA0nyCrVxm/giphy.webp?cid=ecf05e47vgaendjtt6s5utqmasq1xdqlukfrmgi88bhjjgf8&rid=giphy.webp&ct=g" height="150" style="border-radius:50px;" >
+  <img align="right" src="https://media3.giphy.com/media/GpFvYGPIs3FNR4mBah/giphy.webp?cid=ecf05e470sblwgnkijb3zi2iowta4jtld6udwok22z73ww91&rid=giphy.webp&ct=g" height="200" style="border-radius:50px;" >
 </div>
   
   ##
