@@ -14,6 +14,7 @@
   <img align="center" alt="Giu-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Giu-Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Giu-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="right" src="https://media3.giphy.com/media/GpFvYGPIs3FNR4mBah/giphy.webp?cid=ecf05e470sblwgnkijb3zi2iowta4jtld6udwok22z73ww91&rid=giphy.webp&ct=g" height="300" style="border-radius:75px;" >
 </div>
 
 ##
