@@ -71,3 +71,4 @@ no Databricks.
 ### Certificações:
 
 • DP-900: https://www.credly.com/badges/d272d9c5-d10f-4945-b4ae-ffd6c102830a/linked_in?t=rkl1z0
+• Data Engineer Associate Certificate: https://www.datacamp.com/certificate/DEA0016631665363
