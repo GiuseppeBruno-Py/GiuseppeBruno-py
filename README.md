@@ -1,5 +1,6 @@
 ### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
 <div align="center">
   <a href="https://github.com/giuseppebruno-py">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBruno-py&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -8,6 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Giu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Giu-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Giu-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
@@ -70,5 +72,5 @@ no Databricks.
 
 ### Certificações:
 
-• DP-900: https://www.credly.com/badges/d272d9c5-d10f-4945-b4ae-ffd6c102830a/linked_in?t=rkl1z0
-• Data Engineer Associate Certificate: https://www.datacamp.com/certificate/DEA0016631665363
+- DP-900: https://www.credly.com/badges/d272d9c5-d10f-4945-b4ae-ffd6c102830a/linked_in?t=rkl1z0
+- Data Engineer Associate Certificate: https://www.datacamp.com/certificate/DEA0016631665363
