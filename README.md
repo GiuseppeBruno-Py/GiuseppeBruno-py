@@ -56,13 +56,15 @@
   - Auxiliar na elaboração de documentação e alterações.
 
 
-- **Blueshift Brasil** (Engenheiro de Dados Jr) - Período: 04/2022 - Atual
+- **Blueshift Brasil** (Engenheiro de Dados) - Período: 04/2022 - 05/2022
   - Modelagem de dados com as metodologias Star Schema e Snow Flake em 
 ambiente cloud da Azure.
   - Aquisição dos dados através do consumo de APIs com o python orquestrado 
 pelo Azure Data Factory.
   - Processamento de dados entre as camadas do data lake com o Spark (Pyspark) 
 no Databricks.
+
+- **XP Inc** (Engenheiro de Dados) - Período: 06/2022 - Atual
 
 ### Educação:
 
