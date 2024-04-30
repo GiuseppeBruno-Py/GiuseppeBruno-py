@@ -36,16 +36,23 @@
 ### Skills:
 
 - Python
-- Apache Spark
+- Scala
+- Java
 - PostgreSQL
+- Oracle
+- SQL Server
+- Hive
+- Spark/Pyspark
+- Airflow
 - Pandas
 - Azure
-- Git
+- GCP
 
 ### Projetos Destacados:
 
 - [Uber Data Analytics](https://github.com/GiuseppeBruno-Py/UberAnalyticsProject)
 - [Weather Analysis Dashboard](https://github.com/GiuseppeBruno-Py/WeatherProject)
+- [Airbnb Market Analysis](https://github.com/GiuseppeBruno-Py/Airbnb-Market-Analysis)
 
 ### Experiência Profissional:
 
@@ -56,7 +63,7 @@
   - Auxiliar na elaboração de documentação e alterações.
 
 
-- **Blueshift Brasil** (Engenheiro de Dados) - Período: 04/2022 - 05/2022
+- **Blueshift Brasil** (Engenheiro de Dados) - Período: 04/2022 - 05/2023
   - Modelagem de dados com as metodologias Star Schema e Snow Flake em 
 ambiente cloud da Azure.
   - Aquisição dos dados através do consumo de APIs com o python orquestrado 
@@ -64,7 +71,7 @@ pelo Azure Data Factory.
   - Processamento de dados entre as camadas do data lake com o Spark (Pyspark) 
 no Databricks.
 
-- **XP Inc** (Engenheiro de Dados) - Período: 06/2022 - Atual
+- **XP Inc** (Engenheiro de Dados) - Período: 06/2023 - Atual
 
 ### Educação:
 
